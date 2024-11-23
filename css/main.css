@@ -1,0 +1,32 @@
+header h1 {
+  font-family: "impact", sans-serif;
+  font-weight: 900;
+  font-size: 5rem;
+  margin: 53.6px 0px;
+}
+
+header p {
+  font-family: "Times New Roman", sans-serif;
+}
+
+button {
+  width: 250px;
+  height: 80px;
+  background-color: green;
+  color: white;
+}
+
+button:hover {
+  background-color: yellowgreen;
+}
+
+section p  {
+  display: block;
+  text-align: center;
+  font-family: "Times New Roman", sans-serif;
+  font-size: 35px;
+  margin: 35px 0px;
+  margin-left: auto;
+  margin-right:auto ;
+  max-width: 800px;
+}
